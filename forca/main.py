@@ -110,6 +110,8 @@ while True:
 					palpitesErrados = ''
 					todosPalpites = ''
 					break
+				else:
+					print('\033[31mEssa opção é invalida\033[m')
 
 
 
